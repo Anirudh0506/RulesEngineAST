@@ -4,8 +4,7 @@
 
 ## Applicant Introduction
 
-Hi, I'm Subhodeep Manna, a Full-Stack Developer and AI enthusiast skilled in React, Next.js, Django, and machine learning. I'm currently working on projects like a College Directory App and a Seat Booking System, always eager to learn and innovate!
-[LinkedIn](https://www.linkedin.com/in/subhodeep21/).
+Hi, I'm Anirudh Bandi, a Software Developer skilled in Front-end Development , Automation and manual testing. I'm currently working on projects like E-commerce and Food devlivery App, always eager to learn and innovate!
 
 ## Table of Contents
 
